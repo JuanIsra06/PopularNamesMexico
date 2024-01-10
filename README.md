@@ -1,8 +1,8 @@
-# PopularNamesMexico
-Explore the vibrant world of Mexican names with this Python script designed to analyze .csv files containing popular names from 2017 to 2021.
+# PopularNamesSpain
+This project is for a Udemy Course in Data Science. The data presented here was provided by the teacher. He took the data from the 'Instituto Nacional de Estadistica'.
 
 # Features:
-**Data Exploration:** Dive into comprehensive .csv files that encapsulate the popular names chosen by parents in Mexico across the years 2017 to 2020.
+**Data Exploration:** Dive into comprehensive .csv files that encapsulate the popular names chosen by parents in Spain across the years 2002 to 2016.
 
 **Name Popularity Checker:** Input a name of interest, and the script will determine how many years that name has been popular based on the provided .csv files.
 
