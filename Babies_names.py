@@ -4,9 +4,7 @@ from os import listdir
 
 def capture():
     parser = argparse.ArgumentParser(description="Script functionality description")
-
     parser.add_argument("name", help = "It is the name that you want to consult")
-
     argument = parser.parse_args()
     return argument
 
